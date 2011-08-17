@@ -1,0 +1,9 @@
+This is a Sudoku solver written in Standard ML.
+
+I have only tested this code on Standard ML of New Jersey.
+
+To run the program, open up the SML command-line tool and call the "use" command on the path of sudoku.sml, like so:
+
+- use "/path/to/sudoku.sml";
+
+At this point, the example Sudoku puzzle at the end of sudoku.sml should be solved.
